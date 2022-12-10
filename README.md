@@ -20,7 +20,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/ReyyNada/ReyyFileSharing1
+git clone https://github.com/JagoanRedesign/bagi-bagi-bot
 cd ReyyFileSharing1
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
