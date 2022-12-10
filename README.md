@@ -1,11 +1,11 @@
-# File-Sharing
+# Berbagi Berkas
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
 <img src="https://telegra.ph/file/c628278158186a91644c5.jpg">
 
 
-### FILE SHARING 1 BUTTON 
+### Berbagi Berkas 1 BUTTON 
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
